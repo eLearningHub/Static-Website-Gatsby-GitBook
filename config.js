@@ -1,7 +1,7 @@
 const config = {
   gatsby: {
-    pathPrefix: '/',
-    siteUrl: 'https://hasura.io',
+    pathPrefix: '/Static-Website-Gatsby-GitBook',
+    siteUrl: 'https://elearninghub.github.io',
     gaTrackingId: null,
     trailingSlash: false,
   },
