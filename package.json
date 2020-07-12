@@ -59,6 +59,7 @@
     "build": "gatsby build --prefix-paths",
     "prebuild": "yarn run clean && gatsby build --prefix-paths",
     "deploy": "yarn run clean && gatsby build --prefix-paths && gh-pages -d public",
+    "clean": "gatsby clean",
     "format": "prettier --write \"src/**/*.{js,jsx,css,json}\"",
     "lint": "eslint --fix \"src/**/*.{js,jsx}\""
   },
