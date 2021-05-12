@@ -7,7 +7,7 @@ const config = {
   },
   header: {
     logo: 'https://graphql-engine-cdn.hasura.io/learn-hasura/assets/homepage/brand.svg',
-    logoLink: 'https://hasura.io/learn/',
+    logoLink: 'https://your-missing-piece.github.io',
     title:
       "<a href='https://hasura.io/learn/'><img class='img-responsive' src='https://graphql-engine-cdn.hasura.io/learn-hasura/assets/homepage/learn-logo.svg' alt='Learn logo' /></a>",
     githubUrl: 'https://github.com/hasura/gatsby-gitbook-boilerplate',
@@ -48,7 +48,7 @@ const config = {
     frontline: false,
     ignoreIndex: true,
     title:
-      "<a href='https://hasura.io/learn/'>missing </a><div class='greenCircle'></div><a href='https://hasura.io/learn/graphql/react/introduction/'>piece</a>",
+      "<a href='https://your-missing-piece.github.io'>missing </a><div class='greenCircle'></div><a href='https://your-missing-piece.github.io'>piece</a>",
   },
   siteMetadata: {
     title: 'Your Missing Piece',
