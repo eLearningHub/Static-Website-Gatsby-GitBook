@@ -54,7 +54,7 @@ const config = {
     title: 'Your Missing Piece',
     description: 'Learning essential life skills',
     ogImage: null,
-    docsLocation: 'https://github.com/Your-Missing-Piece/your-missing-piece.github.io/tree/master/content',\
+    docsLocation: 'https://github.com/Your-Missing-Piece/your-missing-piece.github.io/tree/master/content',
     favicon: 'https://graphql-engine-cdn.hasura.io/img/hasura_icon_black.svg',
   },
   pwa: {
