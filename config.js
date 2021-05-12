@@ -1,7 +1,7 @@
 const config = {
   gatsby: {
-    pathPrefix: '/Static-Website-Gatsby-GitBook',
-    siteUrl: 'https://elearninghub.github.io',
+    pathPrefix: '/',
+    siteUrl: 'https://your-missing-piece.github.io',
     gaTrackingId: null,
     trailingSlash: false,
   },
