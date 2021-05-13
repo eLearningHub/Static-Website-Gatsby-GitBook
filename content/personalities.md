@@ -7,6 +7,9 @@ metaDescription: "Resources helping you know yourself better"
 # Highly Sensitive 
 * [Understanding The Highly Sensitive Person | Alane Freund | Talks at Google](https://youtu.be/2tKDnsns2bg)
 
+# Nice Guy
+* [TRJ #5. Dr. Robert Glover: How To Stop Being Mr. Nice Guy & Improve Your Dating Life](https://youtu.be/4iHIqpnOgN8)
+
 # People Pleaser
 * [The Sin of People Pleasing](https://www.youtube.com/watch?v=r22iB0Jdjwk)
 * [You're making me CRAZY! - Part 7 - Ending my people pleasing addiction](https://www.youtube.com/watch?v=QMXuS_pgKCk)
